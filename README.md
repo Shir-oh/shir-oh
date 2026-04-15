@@ -1,13 +1,15 @@
-# Frontend & Mobile Developer
+# Frontend Developer
 
-### React • React Native • UI that works
+### React • TypeScript • Next.js • Tailwind CSS
+
+I focus on clean, predictable UI and real user interactions
 
 ---
 
 ## Dear Developer,
 
 I’m a junior developer
-I ask a lot of questions
+I ask questions and figure things out
 and yeah… I might ship a bug or two
 
 But I build interfaces people actually use
@@ -30,12 +32,14 @@ P.S. I saw you using AI tools… same here 🤝
 
 ### 🧩 SkillSwap
 
-A focused skill exchange UI with clean architecture and predictable behavior
-🔗 https://skillswap-shir.vercel.app
+Frontend-focused skill exchange app
+Clean UI, predictable state, and real user interactions (Next.js, TypeScript)
+🔗 [Live Demo](https://skillswap-shir.vercel.app)
 
 ### 🚢 Fjordreise
 
-A ferry booking flow with clear UX and structured state handling
-🔗 https://fjordreise.vercel.app
+Ferry booking flow with clear UX and edge-case handling
+Focused on state, routing, and user journey (Next.js, TypeScript)
+🔗 [Live Demo](https://fjordreise.vercel.app)
 
 ---
