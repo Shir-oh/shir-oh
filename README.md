@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Dear Developer,
+## Dear Developer,
 
 I may be junior
 I may ask a lot of questions
