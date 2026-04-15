@@ -6,25 +6,22 @@ I focus on clean, predictable UI and real user interactions
 
 ---
 
-## Dear Developer,
+## A quick note
 
-I’m a junior developer<br />
-I ask questions and figure things out<br />
-and yeah… I might ship a bug or two<br />
+I’m a junior developer
+I ask questions and figure things out
+and yeah… I might ship a bug or two
 
-But I build interfaces people actually use<br />
-I care about performance, accessibility, and clean UI<br />
-and I don’t just use AI — I debug, question, and learn from it<br />
+But I build interfaces people can actually use
+I care about performance, accessibility, and clean UI
+and I don’t just use AI — I debug, question, and learn from it
 
-I turn designs into real, working products<br />
-and I get better every single time I ship<br />
+I turn designs into working products
+and I improve every time I ship
 
-I’m not legacy code<br />
-I’m an investment<br />
+— A junior front-end developer worth hiring
 
-— A junior front-end developer worth hiring<br />
-
-P.S. I saw you using AI tools… same here 🤝<br />
+P.S. I saw you using AI tools… same here 🤝
 
 ---
 
