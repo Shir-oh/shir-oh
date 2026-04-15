@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Dear Developer,
 
 I may be junior
