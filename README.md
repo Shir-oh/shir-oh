@@ -1,6 +1,6 @@
 ## Dear Developer,
 
-I may be junior
+I may be a junior developer
 I may ask a lot of questions
 and yeah… I might ship a bug or two
 
