@@ -19,9 +19,7 @@ and I don’t just use AI — I debug, question, and learn from it <br />
 I turn designs into working products <br />
 and I improve every time I ship <br />
 
-— A junior front-end developer worth hiring <br />
-
-P.S. I saw you using AI tools… same here 🤝 <br />
+> — A junior front-end developer worth hiring <br />
 
 ---
 
